@@ -20,6 +20,7 @@ class CurlHelper
         CURLINFO_TOTAL_TIME => 'total_time',
         CURLINFO_NAMELOOKUP_TIME => 'namelookup_time',
         CURLINFO_CONNECT_TIME => 'connect_time',
+        CURLINFO_APPCONNECT_TIME => 'appconnect_time',
         CURLINFO_PRETRANSFER_TIME => 'pretransfer_time',
         CURLINFO_STARTTRANSFER_TIME => 'starttransfer_time',
         CURLINFO_REDIRECT_COUNT => 'redirect_count',
